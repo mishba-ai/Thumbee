@@ -1,6 +1,6 @@
-# Thumbnail Crafter
+# Thumbee 
 
-Thumbnail Crafter is an AI-powered YouTube thumbnail generator that helps content creators create stunning thumbnails in seconds.
+Thumbee is an AI-powered YouTube thumbnail generator that helps content creators create stunning thumbnails in seconds.
 
 ## Features
 
@@ -20,8 +20,8 @@ Thumbnail Crafter is an AI-powered YouTube thumbnail generator that helps conten
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/thumbnail-crafter.git
-   cd thumbnail-crafter
+   git clone https://github.com/mishba-ai/Thumbee.git
+   cd Thumbee
    ```
 
 2. Install dependencies for both frontend and backend:
@@ -36,8 +36,7 @@ Thumbnail Crafter is an AI-powered YouTube thumbnail generator that helps conten
 4. Start the development servers:
    ```
    # In the backend directory
-   npm run dev
-
+   npm start
    # In the frontend directory
    npm run dev
    ```
