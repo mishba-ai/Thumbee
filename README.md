@@ -48,7 +48,6 @@ Thumbnail Crafter is an AI-powered YouTube thumbnail generator that helps conten
 
 - Frontend: React, Vite, Tailwind CSS
 - Backend: Node.js, Express
-- AI: [Specify AI technology used]
 
 ## Contributing
 
